@@ -4,14 +4,15 @@ import (
 	"awesomeProject/pkg/models/dbs"
 	"database/sql"
 	"flag"
-	_ "github.com/go-sql-driver/mysql"
-	"github.com/golangcollege/sessions"
-	"github.com/rs/cors"
 	"html/template"
 	"log"
 	"net/http"
 	"os"
 	"time"
+
+	_ "github.com/go-sql-driver/mysql"
+	"github.com/golangcollege/sessions"
+	"github.com/rs/cors"
 )
 
 type application struct {
@@ -20,6 +21,11 @@ type application struct {
 	session       *sessions.Session
 	templateCache map[string]*template.Template
 	sight         *dbs.SightModel
+	client        *dbs.ClientModel
+	event         *dbs.EventModel
+	rec           *dbs.Recommendations
+	clientevent   *dbs.ClientEventModel
+	clientsight   *dbs.ClientSigthModel
 }
 
 func main() {
@@ -49,10 +55,15 @@ func main() {
 	session.Lifetime = 12 * time.Hour
 
 	app := &application{
-		errorLog: errorLog,
-		infoLog:  infoLog,
-		session:  session,
-		sight:    &dbs.SightModel{DB: db},
+		errorLog:    errorLog,
+		infoLog:     infoLog,
+		session:     session,
+		sight:       &dbs.SightModel{DB: db},
+		client:      &dbs.ClientModel{DB: db},
+		event:       &dbs.EventModel{DB: db},
+		rec:         &dbs.Recommendations{DB: db},
+		clientevent: &dbs.ClientEventModel{DB: db},
+		clientsight: &dbs.ClientSigthModel{DB: db},
 	}
 
 	srv := &http.Server{
