@@ -1,0 +1,342 @@
+[
+    {
+        "title": "\n            Этно – мемориальный комплекс «Атамекен»        ",
+        "link": "https://astana.citypass.kz/ru/2018/07/17/etno-memorialnyiy-kompleks-atameken/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музей энергии будущего «Нур-Алем» (ЭКСПО)        ",
+        "link": "https://astana.citypass.kz/ru/2017/11/24/obektyi-naslediya-ekspo/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Театр аниматрониксов «Джунгли»        ",
+        "link": "https://astana.citypass.kz/ru/2017/09/15/teatr-animatroniksov-dzhungli/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Дворец Мира и Согласия        ",
+        "link": "https://astana.citypass.kz/ru/2018/02/15/dvorets-mira-i-soglasiya/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Национальный музей Республики Казахстан        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/natsionalnyiy-muzey-respubliki-kazahstan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Монумент «Астана-Байтерек»        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/bayterek/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Океанариум «Ailand»        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/rts-duman/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Колесо обозрения «Ailand»        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/koleso-obozreniya-duman/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Экзотариум «Ailand»        ",
+        "link": "https://astana.citypass.kz/ru/2022/01/17/ekzotarium-ailand/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Посещение «Музея природы» и «Контактного Зоопарка» в Визит-центре «Бурабай»        ",
+        "link": "https://astana.citypass.kz/ru/2018/07/05/vizit-tsentr/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музейно-мемориальный комплекс «АЛЖИР»        ",
+        "link": "https://astana.citypass.kz/ru/2018/06/19/muzeyno-memorialnyiy-kompleks-alzhir/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музей Сакена Сейфуллина        ",
+        "link": "https://astana.citypass.kz/ru/2018/02/15/muzey-sakena-seyfullina/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            «Зал золото» в Национальном музее Республики Казахстан        ",
+        "link": "https://astana.citypass.kz/ru/2018/09/05/zal-zoloto-v-nacionalynom-muzee-respubliki-kazahstan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Дворец Независимости        ",
+        "link": "https://astana.citypass.kz/ru/2018/04/28/dvorets-nezavisimosti/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Триумфальная арка «Мәңгілік Ел»        ",
+        "link": "https://astana.citypass.kz/ru/2018/01/19/triumfalnaya-arka-m-gilik-el-2/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Бульвар «Нуржол»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/bulvar-nurzhol/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Монумент «Қазақ елі»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/monument-kazakh-eli/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Мечеть «Хазрет Султан»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/mechet-hazret-sultan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Мост «Атырау көпірі»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/most-atyrau-kopiri/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Арбат        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/arbat/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Столичный парк        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/stolichnyi-park/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Мечеть «Нур-Астана»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/mechet-nur-astana/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Президентский парк        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/prezidentskii-park/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Парк «Жеруйык»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/park-zheruiyk/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Триатлон парк «Астана»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/triatlon-park-astana/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            ТРЦ «Хан Шатыр»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/trc-khan-shatyr/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            ЭКСПО-парк        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/expo-park/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Парк «Жетысу»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/park-jetisu/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Старая площадь        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/staraya-ploshad/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Галерея Искусств Хас-Санат        ",
+        "link": "https://astana.citypass.kz/ru/2020/07/29/galereya-isskustv-has-sanat/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Свят-Успенский кафедральный собор        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/svyat-uspenskii-kafedralnyi-sobor/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музей Первого Президента Республики Казахстан        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/muzey-pervogo-prezidenta-rk-2/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Назарбаев центр        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/prezidentskaya-biblioteka/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Военно-исторический музей вооруженных сил РК        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/voenno-istoricheskiy-muzey-vooruzhennyih-sil-respubliki-kazahstan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Этно – мемориальный комплекс «Атамекен»        ",
+        "link": "https://astana.citypass.kz/ru/2018/07/17/etno-memorialnyiy-kompleks-atameken/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музей энергии будущего «Нур-Алем» (ЭКСПО)        ",
+        "link": "https://astana.citypass.kz/ru/2017/11/24/obektyi-naslediya-ekspo/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Театр аниматрониксов «Джунгли»        ",
+        "link": "https://astana.citypass.kz/ru/2017/09/15/teatr-animatroniksov-dzhungli/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Дворец Мира и Согласия        ",
+        "link": "https://astana.citypass.kz/ru/2018/02/15/dvorets-mira-i-soglasiya/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Национальный музей Республики Казахстан        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/natsionalnyiy-muzey-respubliki-kazahstan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Монумент «Астана-Байтерек»        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/bayterek/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Океанариум «Ailand»        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/rts-duman/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Колесо обозрения «Ailand»        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/koleso-obozreniya-duman/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Экзотариум «Ailand»        ",
+        "link": "https://astana.citypass.kz/ru/2022/01/17/ekzotarium-ailand/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Посещение «Музея природы» и «Контактного Зоопарка» в Визит-центре «Бурабай»        ",
+        "link": "https://astana.citypass.kz/ru/2018/07/05/vizit-tsentr/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музейно-мемориальный комплекс «АЛЖИР»        ",
+        "link": "https://astana.citypass.kz/ru/2018/06/19/muzeyno-memorialnyiy-kompleks-alzhir/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музей Сакена Сейфуллина        ",
+        "link": "https://astana.citypass.kz/ru/2018/02/15/muzey-sakena-seyfullina/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            «Зал золото» в Национальном музее Республики Казахстан        ",
+        "link": "https://astana.citypass.kz/ru/2018/09/05/zal-zoloto-v-nacionalynom-muzee-respubliki-kazahstan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Дворец Независимости        ",
+        "link": "https://astana.citypass.kz/ru/2018/04/28/dvorets-nezavisimosti/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Триумфальная арка «Мәңгілік Ел»        ",
+        "link": "https://astana.citypass.kz/ru/2018/01/19/triumfalnaya-arka-m-gilik-el-2/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Бульвар «Нуржол»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/bulvar-nurzhol/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Монумент «Қазақ елі»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/monument-kazakh-eli/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Мечеть «Хазрет Султан»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/mechet-hazret-sultan/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Мост «Атырау көпірі»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/most-atyrau-kopiri/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Арбат        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/arbat/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Столичный парк        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/stolichnyi-park/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Мечеть «Нур-Астана»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/mechet-nur-astana/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Президентский парк        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/prezidentskii-park/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Парк «Жеруйык»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/09/park-zheruiyk/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Триатлон парк «Астана»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/triatlon-park-astana/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            ТРЦ «Хан Шатыр»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/trc-khan-shatyr/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            ЭКСПО-парк        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/expo-park/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Парк «Жетысу»        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/park-jetisu/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Старая площадь        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/staraya-ploshad/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Галерея Искусств Хас-Санат        ",
+        "link": "https://astana.citypass.kz/ru/2020/07/29/galereya-isskustv-has-sanat/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Свят-Успенский кафедральный собор        ",
+        "link": "https://astana.citypass.kz/ru/2021/08/11/svyat-uspenskii-kafedralnyi-sobor/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Музей Первого Президента Республики Казахстан        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/muzey-pervogo-prezidenta-rk-2/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Назарбаев центр        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/prezidentskaya-biblioteka/",
+        "button_text": ""
+    },
+    {
+        "title": "\n            Военно-исторический музей вооруженных сил РК        ",
+        "link": "https://astana.citypass.kz/ru/2017/05/15/voenno-istoricheskiy-muzey-vooruzhennyih-sil-respubliki-kazahstan/",
+        "button_text": ""
+    }
+]
