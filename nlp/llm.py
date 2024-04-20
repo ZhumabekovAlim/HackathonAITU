@@ -12,7 +12,7 @@ class Query(BaseModel):
 async def answer_query(query: Query):
     try:
         response = openai.Completion.create(
-            engine="gpt-4-turbo",  # Укажите актуальную модель ChatGPT
+            engine="gpt-4-turbo", 
             prompt=query.question,
             max_tokens=150
         )
