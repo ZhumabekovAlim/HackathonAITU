@@ -14,10 +14,10 @@ type SightModel struct {
 func (m *SightModel) Insert(sight *models.Sight) error {
 	stmt := `
         INSERT INTO astana.sight
-        (name,address,phone_number,content_info,bus_numbers,working_days,working_hours,visited,image_url) 
+        (name, address, phone_number, content_info, bus_numbers, working_days, working_hours, visited, image_url) 
         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?);`
 
-	_, err := m.DB.Exec(stmt, sight)
+	_, err := m.DB.Exec(stmt, sight.Name, sight.Address, sight.PhoneNumber, sight.ContentInfo, sight.BusNumbers, sight.WorkingDays, sight.WorkingHours, sight.Visited, sight.ImageUrl)
 	if err != nil {
 		return err
 	}

@@ -14,10 +14,10 @@ type Recommendations struct {
 func (m *Recommendations) Insert(recommendation *models.Recommendation) error {
 	stmt := `
         INSERT INTO astana.recommendation
-        (cliend_id, sight_category_id, event_category_id) 
+        (client_id, sight_category_id, event_category_id) 
         VALUES (?, ?, ?);`
 
-	_, err := m.DB.Exec(stmt, recommendation)
+	_, err := m.DB.Exec(stmt, recommendation.ClientId, recommendation.SightCategoryId, recommendation.EventCategoryId)
 	if err != nil {
 		return err
 	}
@@ -25,8 +25,8 @@ func (m *Recommendations) Insert(recommendation *models.Recommendation) error {
 	return nil
 }
 
-func (m *Recommendations) GetEventById(id string) ([]byte, error) {
-	stmt := `SELECT id, cliend_id, sight_category_id, event_category_id FROM astana.recommendation WHERE id = ?`
+func (m *Recommendations) GetRecommendationById(id string) ([]byte, error) {
+	stmt := `SELECT id, client_id, sight_category_id, event_category_id FROM astana.recommendation WHERE id = ?`
 
 	eventRow := m.DB.QueryRow(stmt, id)
 
@@ -48,8 +48,8 @@ func (m *Recommendations) GetEventById(id string) ([]byte, error) {
 	return convertedRec, nil
 }
 
-func (m *Recommendations) GetAllEvents() ([]byte, error) {
-	stmt := `SELECT id, cliend_id, sight_category_id, event_category_id FROM astana.recommendation`
+func (m *Recommendations) GetAllRecommendations() ([]byte, error) {
+	stmt := `SELECT id, client_id, sight_category_id, event_category_id FROM astana.recommendation`
 
 	rows, err := m.DB.Query(stmt)
 	if err != nil {
@@ -79,7 +79,7 @@ func (m *Recommendations) GetAllEvents() ([]byte, error) {
 	return convertedEvents, nil
 }
 
-func (m *Recommendations) DeleteEventById(id int) error {
+func (m *Recommendations) DeleteRecommendationById(id int) error {
 	stmt := `DELETE FROM astana.recommendation WHERE id = ?`
 	_, err := m.DB.Exec(stmt, id)
 	if err != nil {

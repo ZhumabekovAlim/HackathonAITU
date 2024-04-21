@@ -17,7 +17,7 @@ func (m *ClientSigthModel) Insert(sight *models.Client_Sights) error {
         (client_id, sight_id) 
         VALUES (?, ?);`
 
-	_, err := m.DB.Exec(stmt, sight)
+	_, err := m.DB.Exec(stmt, sight.ClientId,sight.SightId)
 	if err != nil {
 		return err
 	}
